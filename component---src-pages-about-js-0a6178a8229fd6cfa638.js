@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"3XHS":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),r=n.n(a),c=n("Bl7J"),l=n("hIod");t.default=function(){return r.a.createElement(c.a,null,r.a.createElement(l.a,{title:"About"}),r.a.createElement("h1",null,"About"),r.a.createElement("p",null,"Contact us via ",r.a.createElement("a",{href:"https://twitter.com/connectaha",target:"_blank",rel:"noopener noreferrer"},"@connectaha")," at Twitter"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-0a6178a8229fd6cfa638.js.map
